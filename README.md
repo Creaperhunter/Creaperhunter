@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m @Creaperhunter
-- 👀 I’m interested in Batch, Discord.js and Lua (Roblox)
+- 👀 I’m interested in Lua (Roblox)
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on None
 - 📫 How to reach me On Discord: Creaperhunter#2137
