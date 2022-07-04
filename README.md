@@ -1,6 +1,2 @@
-### GIT STATS
-
-![Creaperhunter GitHub stats](https://github-readme-stats.vercel.app/api?username=Creaperhunter&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff)
-
-### TOP PROGRAMMING LANGUAGES
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Creaperhunter&theme=radical&title_color=8E2DE2&text_color=fff)
+![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Creaperhunter&data=followers,repositories,stars,commits)
+![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?names=csharp,html,css,sass,php,lua,json,yaml,xml,mysql&includeNames=true)
